@@ -19,13 +19,12 @@ It was programmed in C#
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Here is a list of helpful links that got me through this project
 * [Web Site Name](https://stackoverflow.com/)
 * [Web Site Name](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Create an end screen - for some reason it wasnt allowing me to switch to an end screen so because of time constraints I abandoned the idea
 * To make it hard eliminate the ability to alter velocity in mid-air
 * Create more levels and variety to obsticles
